@@ -12,6 +12,12 @@ Features
  - Custom pattern support
  - No delay functions
 
+Installation
+============
+ - Download the [ZIP archive](https://github.com/fulf/arduino-led-blinker/archive/master.zip) of the project (from GitHub's Clone or download menu).
+ - Open the Arduino IDE 
+ - Go to *Sketch* -> *Include Library* -> *Add .ZIP Library...* 
+ - Select the ZIP you just downloaded
 
 Quick start
 ===========
