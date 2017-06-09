@@ -21,6 +21,12 @@ Installation
 
 Quick start
 ===========
+Include the library in your project
+```c++
+#include <LEDBlinker.h>
+```
+
+
 To create an LED Blinker you must specify the LED's pin
 ```c++
 LEDBlinker led(1);
